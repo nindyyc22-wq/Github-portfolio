@@ -1,12 +1,9 @@
-# Github-portfolio
-Mission Statement: A repository to showcase my portfolio for assignments completed as a Information Technology student.
+## Excutive Summary / Technical Report
 
-Toolkit: 
+This repository serves as a showcase for my progress with the skills of a Security Practitioner. Where I will be developing skills like troubleshooting, professional documentation, and technical proficency. 
 
-Operating systems:
-WindowOS and MacOS
+### Goals
+Develop professional skills\
+Create a portfolio, showing my skills\
+Grow as a user of GitHub and security practitioner
 
-Languages:
-Java and Python
-
-Highlight Reel:
