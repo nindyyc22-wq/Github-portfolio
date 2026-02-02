@@ -17,4 +17,4 @@ Status: Completed
 3.The Impact: DNS resolvers could not find Facebook's servers.
 
 
-📸 Proof of Work (We will add a screenshot here in the next step)
+📸 Proof of Work ![My Terminal Success](terminal.png)
