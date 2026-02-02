@@ -1,21 +1,20 @@
 # Lab 01: Enterprise Infrastructure Audit
-**Date:** January 2026  
-**Status:** In Progress  
+Lab 01: Infrastructure Audit
 
-## 🎯 Objective
-To analyze the 2021 Facebook outage from a systems design perspective and identify the specific failure points in their BGP (Border Gateway Protocol) configuration.
+Name: Cindy Ngo
 
-## 🛠️ Tools Used
-* Wireshark (Traffic Analysis)
-* Draw.io (Network Topology Mapping)
-* Linux Terminal
+Date: 02/02/2026
 
-## 🔍 Key Findings
-1. **Root Cause:** A routine maintenance command unintentionally disconnected Facebook's data centers from the wider internet.
-2. **Cascading Failure:** Because the network was down, internal tools (like badge readers) also failed, delaying physical access to the servers.
+Status: Completed
 
-## 💡 Lessons Learned
-This lab highlighted the danger of **Single Points of Failure**. In the future, I would recommend out-of-band management for critical infrastructure to ensure access during a primary network collapse.
 
-## 📸 Proof of Work
-![Network Diagram Placeholder](link-to-your-image-here.png)
+🎯 Objective: To document the 2021 Facebook outage and practice using GitHub for enterprise documentation.
+
+🔍 Key Findings (Case Study) 
+1.The Event: Facebook (Meta) disappeared from the internet because of a configuration error. 
+2.The Technical Cause: A bad command deleted the BGP (Border Gateway Protocol) routes.
+
+3.The Impact: DNS resolvers could not find Facebook's servers.
+
+
+📸 Proof of Work (We will add a screenshot here in the next step)
