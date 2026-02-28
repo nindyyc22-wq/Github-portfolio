@@ -23,6 +23,6 @@ Project: Lab 2 - Zero Trust Policy
 
 Filename: ZT-Policy-Profile.md
 
-Commit Message: Add ZTA Component Definitions, Core Principle Application, and Policy Table
+Commit Message: Add ZTA Component Definitions, Core Principle Application, and Policy Table https://github.com/nindyyc22-wq/Github-portfolio/blob/main/ZT-Policy-Profile.md 
 
 Due Date: February 27, 2026
